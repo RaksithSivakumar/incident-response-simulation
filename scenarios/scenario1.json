@@ -1,0 +1,16 @@
+{
+    "title": "Unauthorized Access to System",
+    "description": "A user with administrative privileges has logged in from an unknown IP address. The user has accessed critical systems.",
+    "actions": [
+      "1. Block the user's IP address.",
+      "2. Revoke the user's access rights.",
+      "3. Check system logs for unusual activity.",
+      "4. Inform the security team."
+    ],
+    "correct_actions": [
+      "1",
+      "2",
+      "3"
+    ]
+  }
+  
