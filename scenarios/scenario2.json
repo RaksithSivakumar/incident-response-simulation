@@ -1,0 +1,16 @@
+{
+    "title": "Phishing Attack Attempt",
+    "description": "A user reports receiving a suspicious email containing a link that could lead to a phishing website.",
+    "actions": [
+      "1. Advise the user not to click the link.",
+      "2. Examine the email headers for suspicious details.",
+      "3. Inform the IT team to block the sender's email address.",
+      "4. Report the phishing attempt to authorities."
+    ],
+    "correct_actions": [
+      "1",
+      "2",
+      "3"
+    ]
+  }
+  
